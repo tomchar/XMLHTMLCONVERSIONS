@@ -1,0 +1,74 @@
+import java.net.URL;
+
+public class InputFromURL {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+/*
+ * tries to open a URL with the XML parsing code (we'll learn) to parse the XML later
+ * HTML is a type of XML
+ * 
+ * @author tomek
+ * 
+ * 
+ * 
+ */
+		//"pas the buck"
+		
+		//just throw at the beigninng at the main if you want to skip the try cathch statement
+		
+		//URL
+		
+		
+		import java.net.URL;
+		import java.io.IOException;
+		
+		URL myURL = new URL(string URL); //HAHA
+		
+		System.out.println(DEBUG);
+		
+		My DEBUG = 
+				myURL.toString();
+		
+		
+		URLConnection urlCOnenection = myurl.openconnection();
+		
+		//use the standard (bufferd) stream classes to interact wihth the data source
+		
+	// notice the approach is roghly the same regardless of the data source
+		
+		//this lets us reuse our code regardless of the data source irregareless of the source of the data
+		
+	
+		Bufferedreader input = new bufferdreader(new InputStreamreader(urlconnection.getinputstream()))));
+		
+		//it doesnt matter where that data came from
+		
+		String inputline;
+		while()inputline = inputreader.readline()() =! null) {
+			
+			//do whatever you want thanks
+			
+			system.outprintln(inputline);
+			
+			
+		}
+		
+		
+		
+		
+		inputreader.close;
+		
+		
+		}
+	
+	//a new configuration to try to make a new main public stati void main
+	
+	
+//BLAAAAAAAAAAAAGH
+	
+	//take the commit from mareks github, download the repo
+		
+	}
+
+}
