@@ -1,0 +1,252 @@
+import java.net.URL;
+
+public class InputFromURL {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+/*
+ * tries to open a URL with the XML parsing code (we'll learn) to parse the XML later
+ * HTML is a type of XML
+ * 
+ * @author tomek
+ * 
+ * 
+ * 
+ */
+		//"pas the buck"
+		
+		//just throw at the beigninng at the main if you want to skip the try cathch statement
+		
+		//URL
+		
+		
+		import java.net.URL;
+		import java.io.IOException;
+		
+		URL myURL = new URL(string URL); //HAHA
+		
+		System.out.println(DEBUG);
+		
+		My DEBUG = 
+				myURL.toString();
+		
+		
+		URLConnection urlCOnenection = myurl.openconnection();
+		
+		//use the standard (bufferd) stream classes to interact wihth the data source
+		
+	// notice the approach is roghly the same regardless of the data source
+		
+		//this lets us reuse our code regardless of the data source irregareless of the source of the data
+		
+	
+		Bufferedreader input = new bufferdreader(new InputStreamreader(urlconnection.getinputstream()))));
+		
+		//it doesnt matter where that data came from
+		
+		String inputline;
+		while()inputline = inputreader.readline()() =! null) {
+			
+			//do whatever you want thanks
+			
+			system.outprintln(inputline);
+			
+			
+		}
+		
+		
+		
+		
+		inputreader.close;
+		
+		
+		}
+	
+	//a new configuration to try to make a new main public stati void main
+	
+	
+//BLAAAAAAAAAAAAGH
+	
+	//take the commit from mareks github, download the repo
+		
+	}
+
+}
+
+
+
+GUIBuilder
+
+Drop stuff into a layout, Assignment 3 is okay
+
+Assignment 2 still on track
+
+Notes on blackboard
+
+Input output is the same?
+
+Try parsing through the internet, xml as a way to convey bioinformatics and biology and computer science
+
+Python and perl, okay
+
+
+i/o network sockets streams probably
+
+Encoding, file not found, permissions, heirarchy of exceptions
+Oracle API and java, they want you to use the money
+
+
+
+
+Get github back and try to gpc comile this code 
+public class ByteStream {
+
+	public static void main(String[] args) {
+		
+		FileInputStream in = null;
+		FileOutputStream out = null;
+		try {
+			in = new FIleInputStream("input.txt");
+			out = new FileOutputStream("output.txt");
+			
+			
+			
+			Printwriter for byte or 
+			
+		} catch
+		
+		///exit;?
+		//flush the stream
+		
+		
+		//Object a = new Object();
+					
+					
+		
+		
+	}
+
+}
+
+//Lets try serializable charsequence and comprable<String>
+//more abstract to make a object as a protected or private and public
+
+Extensible markup language
+
+As a way to interface with the internet
+
+Lets try intelligj and next and next and 
+New project name and location
+
+FileIO example and in ~/udeaprojects/
+New java class and nam,e th eclass
+
+Class VileIO
+
+Public class FileIO
+
+/*
+This program opens a data file (text) using the character stream clasees
+
+These classes are seen throufh the java api and 
+
+Reusable class and objects
+
+They have othe3r uses beogind these sompe exam[les
+
+Check the out in the apiespecially if they are mentioned by other classes you want to use 
+
+*/
+
+
+This program converts or will convert lower case text data to upper case data to another file
+
+Java docs
+
+@tomek
+
+Main function
+
+Public static void main String[] args
+
+//Declare references to te appropriate buffered IO steam clases/objects
+//buffered reader is for the input
+
+//Import the package, then the class
+
+BufferedReader
+
+//lets try to flush the buffered shit and then we can close the program
+
+BufferedReader inputStream first null
+
+No more outputs
+
+PrintWriter outputs nulled
+
+
+Watson bullshit
+
+
+
+//;ets get a filename and path
+
+//
+
+Lets try final Jfilechooser filechooser new filechooser();
+
+Inti returnvalue = filechooser.showopendialog(parent:null);
+
+Pakcage JFIleChooser class
+
+
+
+
+
+
+
+Tuberous sclerosis syndrome
+TSC1
+
+Germline vs somatic
+
+Opentag, texts closetag
+
+No evidence available
+
+Softwre and hardware independent tools, not tied to java and bionformatics
+It is somewhat human readable
+
+Evrokjvojivskkjk;vdlsk;fjl;ksdsssssssssssssssssssss
+
+Not binary
+Can convert to binary???
+
+<?xml version blah encoding UTF-88>
+Note
+To
+From
+Whatever
+
+XML structure is linear
+Not circular,loop,hyperthreaded
+
+Opentag <note>
+		Tabbed shit
+	Closetag
+	
+XML just tries to add new elements in forms of tags
+
+
+
+To from shit body for HTML and XCODE/XML conversions
+
+Metadata and data, "data of data"
+
+The date of nucleotide and then the nucleotide
+
+Trees of the XML, its pretty linear
+
+Bookstore parent with child elements book
+
+
